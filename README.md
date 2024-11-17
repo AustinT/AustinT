@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, welcome to my GitHub
+
+Hopefully you find this code useful in some way.
+
+For more information about me, please visit my website: <https://www.austintripp.ca/>
 
 <!--
 **AustinT/AustinT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
